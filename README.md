@@ -5,11 +5,11 @@
 
 <p align="left"> <a href="https://twitter.com/bsanandu" target="blank"><img src="https://img.shields.io/twitter/follow/bsanandu?logo=twitter&style=for-the-badge" alt="bsanandu" /></a> </p>
 
-- 🌱 I’m currently learning **Data Structures and Algorithms**
+<!-- - 🌱 I’m currently learning **Data Structures and Algorithms** -->
 
 - 👨‍💻 All of my projects are available at [https://github.com/BSanandu88?tab=repositories](https://github.com/BSanandu88?tab=repositories)
 
-- 💬 Ask me about **anything**
+<!-- - 💬 Ask me about **anything** -->
 
 - 📫 How to reach me **bsanandu88@gmail.com**
 
@@ -18,9 +18,6 @@
 <a href="https://codepen.io/bs_anandu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="bs_anandu" height="30" width="40" /></a>
 <a href="https://twitter.com/bsanandu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="bsanandu" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/bsanandu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bsanandu" height="30" width="40" /></a>
-<a href="https://instagram.com/bs__anandu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="bs__anandu" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/bs_anandu88" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="bs_anandu88" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/bsanandu88" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="bsanandu88" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/bsanandu88" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="bsanandu88" height="30" width="40" /></a>
 </p>
 
